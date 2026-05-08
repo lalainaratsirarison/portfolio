@@ -12,7 +12,29 @@
 
 body {
   color: rgb(var(--foreground-rgb));
-  background-color: #0d1224;
+  background-color: #0f172a;
+}
+
+::selection {
+  background-color: #3b82f640;
+  color: #38bdf8;
+}
+
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0f172a;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1e293b;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #38bdf8;
 }
 
 #sticky-card-1 {

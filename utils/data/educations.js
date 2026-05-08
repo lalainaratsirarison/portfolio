@@ -1,20 +1,20 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "Bachelor's Degree in Computer Science, Information Systems Development",
+    duration: "2022 - 2026",
+    institution: "ADVANCEA, Ambohijatovo, Antananarivo, Madagascar",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Higher National Diploma (HND) in Computer Science",
+    duration: "2022 - 2024",
+    institution: "ADVANCEA, Ambohijatovo, Antananarivo, Madagascar",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "High School Diploma — Science Division",
+    duration: "2020 - 2021",
+    institution: "Lycée Jean Joseph Rabearivelo, Analakely, Antananarivo, Madagascar",
   }
 ]

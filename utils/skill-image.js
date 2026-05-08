@@ -2,6 +2,7 @@ import adobeXd from '../app/assets/svg/skills/adobe-xd.svg';
 import adobeaudition from '../app/assets/svg/skills/adobeaudition.svg';
 import afterEffects from '../app/assets/svg/skills/after-effects.svg';
 import angular from '../app/assets/svg/skills/angular.svg';
+import aspnet from '../app/assets/svg/skills/aspnet.svg';
 import aws from '../app/assets/svg/skills/aws.svg';
 import azure from '../app/assets/svg/skills/azure.svg';
 import blender from '../app/assets/svg/skills/blender.svg';
@@ -82,12 +83,24 @@ import kubernetes from '../app/assets/svg/skills/kubernetes.svg'
 import linux from '../app/assets/svg/skills/linux.svg'
 import sqlalchemy from '../app/assets/svg/skills/sqlalchemy.svg'
 import fastapi from '../app/assets/svg/skills/fastapi.svg'
+import nodejs from '../app/assets/svg/skills/nodejs.svg'
+import expressjs from '../app/assets/svg/skills/expressjs.svg'
+import ubuntu from '../app/assets/svg/skills/ubuntu.svg'
+import qt from '../app/assets/svg/skills/qt.svg'
+import javaspringboot from '../app/assets/svg/skills/spring-boot.svg'
+import leafletjs from '../app/assets/svg/skills/leafletjs.svg'
 
 
 
 export const skillsImage = (skill) => {
   const skillID = skill.toLowerCase();
   switch (skillID) {
+    case 'leaflet.js':
+      return leafletjs
+    case 'java spring boot':
+      return javaspringboot
+    case 'asp.net':
+      return aspnet;
     case 'gcp':
       return gcp;
     case 'html':
@@ -254,6 +267,14 @@ export const skillsImage = (skill) => {
       return sqlalchemy;
     case 'fastapi':
       return fastapi;
+    case 'node js':
+      return nodejs;
+    case 'expressjs':
+      return expressjs;
+    case 'ubuntu':
+      return ubuntu;
+    case 'qt':
+      return qt;
     default:
       break;
   }

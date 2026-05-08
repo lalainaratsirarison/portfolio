@@ -3,22 +3,31 @@ export const skillsData = [
   'CSS',
   'Javascript',
   'Typescript',
+  'PHP',
+  'Python',
+  'C++',
+  'C#',
+  'Java',
+  'Asp.NET',
+  'Node JS',
+  'ExpressJS',
+  'FastAPI',
   'React',
   'Next JS',
+  'Qt',
+  'Bootstrap',
   'Tailwind',
+  'MaterialUI',
   'MongoDB',
   'MySQL',
   'PostgreSQL',
-  'Git',
-  'AWS',
-  'Bootstrap',
-  'Docker',
-  'Go',
-  'Figma',
+  'Prisma',
   'Firebase',
-  'MaterialUI',
+  'Git',
+  'Docker',
   'Nginx',
-  'Strapi'
+  'Figma',
+  'Ubuntu'
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
@@ -38,8 +47,8 @@ export const skillsData = [
   Vue
   Angular
   Docker
-  Photoshop
-  Illustrator
+  Photoshop  
+  Illustrator 
   Svelte
   GCP
   Azure
