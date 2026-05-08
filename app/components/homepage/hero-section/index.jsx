@@ -6,10 +6,9 @@ import Image from "next/image";
 import Link from "next/link";
 import { useState, useEffect } from "react";
 import { BsGithub, BsLinkedin } from "react-icons/bs";
-import { FaFacebook, FaTwitterSquare } from "react-icons/fa";
+import { FaFacebook } from "react-icons/fa";
 import { MdDownload } from "react-icons/md";
 import { RiContactsFill } from "react-icons/ri";
-import { SiLeetcode } from "react-icons/si";
 import { FiMaximize2, FiX, FiCopy, FiCheck } from "react-icons/fi";
 
 function HeroSection() {
@@ -263,20 +262,6 @@ function HeroSection() {
               className="transition-all text-sky-400 hover:scale-125 duration-300"
             >
               <FaFacebook size={30} />
-            </Link>
-            <Link
-              href={personalData.leetcode}
-              target='_blank'
-              className="transition-all text-sky-400 hover:scale-125 duration-300"
-            >
-              <SiLeetcode size={30} />
-            </Link>
-            <Link
-              href={personalData.twitter}
-              target='_blank'
-              className="transition-all text-sky-400 hover:scale-125 duration-300"
-            >
-              <FaTwitterSquare size={30} />
             </Link>
           </div>
 
