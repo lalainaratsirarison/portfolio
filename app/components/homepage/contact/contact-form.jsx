@@ -55,7 +55,7 @@ function ContactForm() {
 
   return (
     <div>
-      <p className="font-medium mb-5 text-[#38bdf8] text-xl uppercase">Contact me</p>
+      <p className="font-medium mb-5 text-[#38bdf8] text-xl uppercase">Contact Me</p>
       <div className="max-w-3xl text-white rounded-lg border border-[#1e293b] p-3 lg:p-5">
         <p className="text-sm text-[#d3d8e8]">{"Do you want to work together? Send me a message!"}</p>
         <div className="mt-6 flex flex-col gap-4">

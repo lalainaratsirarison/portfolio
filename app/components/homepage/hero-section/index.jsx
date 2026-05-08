@@ -26,7 +26,7 @@ function HeroSection() {
 
   const handleCopy = () => {
     const codeText = `const developer = {
-  name: 'Lalaina Ratsirarison',
+  name: 'Lalaina Ratsirarisona',
   title: 'Full-Stack Web & Desktop Developer',
   education: 'Bachelor\\'s Degree in Computer Science - ADVANCEA',
   skills: ['React', 'NextJS', 'NodeJS', 'Expressjs', 'FastAPI', 'CodeIgniter 4', 'Socket.io', 'MySQL', 'PostgreSQL', 'MongoDB', 'Docker', 'NGINX', 'REST API', 'HLS Streaming'],
@@ -65,7 +65,7 @@ function HeroSection() {
       <div>
         <span className="ml-4 lg:ml-8 mr-2 text-white">name:</span>
         <span className="text-gray-400">{`'`}</span>
-        <span className="text-amber-300">Lalaina Ratsirarison</span>
+        <span className="text-amber-300">Lalaina Ratsirarisona</span>
         <span className="text-gray-400">{`',`}</span>
       </div>
       <div>
@@ -306,7 +306,7 @@ function HeroSection() {
               <div>
                 <span className="ml-4 lg:ml-8 mr-2 text-white">name:</span>
                 <span className="text-gray-400">{`'`}</span>
-                <span className="text-amber-300">Lalaina Ratsirarison</span>
+                <span className="text-amber-300">Lalaina Ratsirarisona</span>
                 <span className="text-gray-400">{`',`}</span>
               </div>
               <div>
