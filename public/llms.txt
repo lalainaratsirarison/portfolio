@@ -1,0 +1,59 @@
+# Lalaina Ratsirarisona — Full-Stack Developer Portfolio
+
+> Personal portfolio of Lalaina Ratsirarisona, a Full-Stack Web & Desktop Developer based in Antananarivo, Madagascar. The website showcases professional experience, technical skills, software projects, education, technical blog articles from Dev.to, and contact information.
+
+## Home
+Description: The landing page introduces Lalaina Ratsirarisona, presents his professional profile, work experience, technical expertise, featured software projects, educational background, latest Dev.to articles, and contact details. It serves as a comprehensive overview of his career and software development capabilities.
+
+URL: https://lalainaratsirarisona.vercel.app/
+
+## Blog
+Description: A collection of technical articles automatically synchronized from Dev.to. Topics include full-stack web development, frontend and backend engineering, programming languages, software architecture, APIs, databases, desktop application development, DevOps, Linux, and modern development tools.
+
+URL: https://lalainaratsirarisona.vercel.app/blog
+
+## Projects
+Description: Portfolio of web and desktop applications demonstrating practical experience with modern frontend frameworks, backend services, REST APIs, databases, authentication, deployment, and software engineering best practices.
+
+## Skills
+Description: Technical expertise covering frontend development, backend development, desktop applications, databases, cloud services, DevOps, UI design, and software engineering tools.
+
+## Contact
+Description: Contact information for professional opportunities, freelance projects, collaborations, and networking.
+
+## Author
+
+Name: Lalaina Ratsirarisona
+
+Role: Full-Stack Web & Desktop Developer
+
+Location: Antananarivo, Madagascar
+
+Email: lalainaratsirarison@gmail.com
+
+GitHub: https://github.com/lalainaratsirarison
+
+LinkedIn: https://www.linkedin.com/in/lalaina-ratsirarison
+
+## Technologies
+
+Languages:
+HTML, CSS, JavaScript, TypeScript, PHP, Python, C++, C#, Java
+
+Frontend:
+React, Next.js, Bootstrap, Tailwind CSS, Material UI
+
+Backend:
+Node.js, ExpressJS, FastAPI, ASP.NET
+
+Desktop:
+Qt, .NET
+
+Databases:
+MongoDB, MySQL, PostgreSQL, Prisma, Firebase
+
+Tools:
+Git, Docker, Nginx, Ubuntu, Figma
+
+Topics:
+Full-Stack Development, Web Development, Desktop Development, REST APIs, Database Design, Authentication, Software Architecture, DevOps, UI/UX, Linux, Open Source
